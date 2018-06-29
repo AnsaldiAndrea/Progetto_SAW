@@ -1,0 +1,9 @@
+.vscode/
+*.log
+*.zip
+**/mysql_credentials.php
+/uploads
+*.ico
+*.jpg
+*.png
+
